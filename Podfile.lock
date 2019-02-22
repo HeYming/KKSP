@@ -1,0 +1,68 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - BFKit-Swift (4.0.0)
+  - BlocksKit (2.2.5):
+    - BlocksKit/All (= 2.2.5)
+  - BlocksKit/All (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+    - BlocksKit/MessageUI
+    - BlocksKit/UIKit
+  - BlocksKit/Core (2.2.5)
+  - BlocksKit/DynamicDelegate (2.2.5)
+  - BlocksKit/MessageUI (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - BlocksKit/UIKit (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - ESTabBarController-swift (2.6.3)
+  - HandyJSON (4.2.1)
+  - PKHUD (5.2.0)
+  - SnapKit (4.0.1)
+
+DEPENDENCIES:
+  - AFNetworking
+  - BFKit-Swift
+  - BlocksKit
+  - ESTabBarController-swift
+  - HandyJSON
+  - PKHUD (~> 5.0)
+  - SnapKit (~> 4.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - BFKit-Swift
+    - BlocksKit
+    - ESTabBarController-swift
+    - HandyJSON
+    - PKHUD
+    - SnapKit
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  BFKit-Swift: bec808c43a94de72fe7d47ded7417f99dd3b0b7c
+  BlocksKit: 7f422b971407001178d181a43b99014ea2591fe6
+  ESTabBarController-swift: edb8d8bc2cd043a8ddb43ab501fefdf9865ac519
+  HandyJSON: d0c5fc80204f29056d59d3e5c4587fa0b16b60a8
+  PKHUD: dd5357ac65f26115c35c4a68e9b328053326c5fe
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+
+PODFILE CHECKSUM: 915c3dca1e1a3b2544b04aef3256bb79b2b2c95a
+
+COCOAPODS: 1.5.3
